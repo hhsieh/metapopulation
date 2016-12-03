@@ -1,3 +1,3 @@
 #metapopulation
 
-A demonstration of Richard Levin's metapopulation model.
+A demonstration of Richard Levins' metapopulation model (1969).
